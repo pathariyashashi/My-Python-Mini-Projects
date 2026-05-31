@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Mini Projects
 
 A collection of Python projects built while learning and practicing Python programming.
@@ -36,3 +37,7 @@ A collection of Python projects built while learning and practicing Python progr
 ## Author
 
 Shashi Pathariya
+=======
+# My-Python-Mini-Projects
+A collection of Python projects built while learning and practicing Python programming.
+>>>>>>> 5819e2b91a121885d51aed5a4b4e905ba3f0bd1d
